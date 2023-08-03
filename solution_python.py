@@ -1,8 +1,9 @@
-
 ageofvisitors = [25, 18, 31, 61, 52, 14, 10, 11, 13, 70, 34, 21]
+
 numberofkids = []
 numberofadults = []
 numberofretired = []
+
 for i in ageofvisitors:
     if (i <= 15):
         numberofkids.append(i)
